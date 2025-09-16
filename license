@@ -1,32 +1,22 @@
+Any OSI License
+Full name
+Any OSI License
+
+Short identifier
 any-OSI
-any-OSI-perl-modules
-LicenseRef-scancode-canonical-ha-cla-any-e-v1.2
-LicenseRef-scancode-canonical-ha-cla-any-i-v1.2
-LicenseRef-scancode-cncf-corporate-cla-1.0
-LicenseRef-scancode-cncf-individual-cla-1.0
-LicenseRef-scancode-dco-1.0
-LicenseRef-scancode-dco-1.1
-LicenseRef-scancode-djangosnippets-tos
-LicenseRef-scancode-generic-cla
-LicenseRef-scancode-generic-exception
-LicenseRef-scancode-generic-export-compliance
-LicenseRef-scancode-generic-tos
-LicenseRef-scancode-generic-trademark
-LicenseRef-scancode-google-cla
-LicenseRef-scancode-google-corporate-cla
-LicenseRef-scancode-here-disclaimer
-LicenseRef-scancode-ipca
-LicenseRef-scancode-jetty-ccla-1.1
-LicenseRef-scancode-ms-cla
-LicenseRef-scancode-newton-king-cla
-LicenseRef-scancode-no-license
-LicenseRef-scancode-olf-ccla-1.0
-LicenseRef-scancode-olf-icla-1.0
-LicenseRef-scancode-owf-cla-1.0-copyright
-LicenseRef-scancode-owf-cla-1.0-copyright-patent
-PCRE2-exception
-LicenseRef-scancode-samba-dc-1.0
-LicenseRef-scancode-sh-cla-1.1
-LicenseRef-scancode-square-cla
-LicenseRef-scancode-w3c-community-cla
-LicenseRef-scancode-warranty-disclaimer
+
+Other web pages for this license
+https://metacpan.org/pod/Exporter::Tidy#LICENSE [no longer live]
+Notes
+None
+
+Text
+Text in italicized blue is omittable (see Matching Guidelines B.3.5). License or exception text will match to the text for the specified identifier if it either includes or excludes this omittable text.
+
+Text in red is replaceable (see Matching Guidelines B.3.4). License or exception text will match to the text for the specified identifier if it includes a permitted variant of this replaceable text. The permitted variants can be found in the corresponding regular expression as shown in title text visible by hovering over the red text.
+Pick your favourite OSI approved license :)
+
+http://www.opensource.org/licenses/alphabetical
+
+Standard License Header
+There is no standard license header for the license
